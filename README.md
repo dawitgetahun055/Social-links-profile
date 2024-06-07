@@ -32,9 +32,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/Desktop-design(Dawit_Getahun).png) Desktop-design
-![](./design/Active-state.png) Active-state
-![](./design/mobile-design.jpg-design(Dawit_Getahun).png.png) Mobile-design 
+![](./design/Desktop-design(Dawit_Getahun).png)
+ Desktop-design
+![](./design/Active-state.png)
+ Active-state
+![](./design/mobile-design.jpg-design(Dawit_Getahun).png.png)
+ Mobile-design 
 
 ### Links
 
@@ -112,8 +115,6 @@ In future projects, I would like to engage on:
 - Expanding and clarifying my knowledge on CSS 
 
 ### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 
 - [mozilla.org] (https://www.mozilla.org) - Great resource for revisiting basic concepts and where you can visually see the effects of your css styles.
 
