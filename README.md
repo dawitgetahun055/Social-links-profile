@@ -32,14 +32,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/Desktop-design(Dawit_Getahun).png)
-![](./design/Active-state.png)
-![](./design/mobile-design.jpg-design(Dawit_Getahun).png.png) 
+![](./design/Desktop-design(Dawit_Getahun).png) Desktop-design
+![](./design/Active-state.png) Active-state
+![](./design/mobile-design.jpg-design(Dawit_Getahun).png.png) Mobile-design 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/dawitgetahun055/Social-links-profile)
 
 ## My process
 
