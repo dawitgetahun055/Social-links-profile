@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/dawitgetahun055/Social-links-profile)
+- Solution URL: [Solution link](https://github.com/dawitgetahun055/Social-links-profile)
 
 ## My process
 
