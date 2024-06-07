@@ -61,11 +61,11 @@ Users should be able to:
 
 ### What I learned
 
-1. In this project I was able to notice the     difference between the <html> tag and the <body> tag. 
+1. In this project I was able to notice the  difference between the '<html>' tag and the '<body>' tag. 
 
-The <html> element is the root element of an HTML document encompassing the entire content and structure of a webpage.
+The '<html>' element is the root element of an HTML document encompassing the entire content and structure of a webpage.
 
-The <body> element contains the content of the HTML document that is displayed. 
+The '<body>' element contains the content of the HTML document that is displayed. 
 
 2. I also learned when to use paddings and when to actually use margins.
 
@@ -122,7 +122,7 @@ In future projects, I would like to engage on:
 
 ## Author
 
-- Website - [Dawit Getahun](https://www.your-site.com)
+-  Dawit Getahun
 - Frontend Mentor - [@dawitgetahun055](https://www.frontendmentor.io/profile/yourusername)
 
 ## Acknowledgments
